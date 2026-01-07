@@ -22,7 +22,7 @@ The object was to extract and prepare a time series dataset, create a benchmark 
 5. Modelling predictions (SARIMA)
 6. Evaluation (RMSE and MAPE)
 
-The full analysis is documented in the Jupyter notebook below.
+The full analysis is documented in the following Jupyter notebook.
 🔗[View analysis](https://github.com/data-liv/data-liv/blob/main/notebooks/time-series-analysis.ipynb)
 
 ## Formula 1 Power BI Dashboard 🏎️
