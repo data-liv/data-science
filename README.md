@@ -23,7 +23,7 @@ The object was to extract and prepare a time series dataset, create a benchmark 
 6. Evaluation (RMSE and MAPE)
 
 The full analysis is documented in the Jupyter notebook below.
-🔗[View analysis]
+🔗[View analysis](https://github.com/data-liv/data-liv/blob/main/notebooks/time-series-analysis.ipynb)
 
 ## Formula 1 Power BI Dashboard 🏎️
 - Designed an interactive dashboard exploring Formula 1 championship data
