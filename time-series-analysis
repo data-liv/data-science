@@ -12,4 +12,9 @@ This repository contains a time series forecasting project completed in Python. 
 6. Evaluation (RMSE and MAPE)
 
 ### Step 1: Data cleansing
+After the relevant libraries and dataset were loadded into the Python environment, the date column was converted to date/time format and indexed to prepare for analysis.  A sense check was performed using the df.head() and df.info() functions revealing several inconsistencies within the data. Investigation highlighted that the accounting system was not fully implemented until 2018; consequently, any prior data was dropped from the dataset.
 
+'''python 
+df['date'] = pd.to_datetime(df['date'])
+df = df.set_index('date')
+df = df.sort_index()
