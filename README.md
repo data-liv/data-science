@@ -36,3 +36,6 @@ The dataset used in this project was obtained from Kaggle:
 - **Author** Syed Zubair Ahmed
 - **Source** 🔗[Kaggle](https://www.kaggle.com/datasets/syedzubairahmed0022/formula-1-races-data-from-2000-2025)
 - **Licence** [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+
+### Dashboard Preview 
+
