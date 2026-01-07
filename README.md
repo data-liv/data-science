@@ -38,4 +38,4 @@ The dataset used in this project was obtained from Kaggle:
 - **Licence** [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 ### Dashboard Preview 
-
+![F1-dashboard.pdf](images/F1-dashboard.pdf)
